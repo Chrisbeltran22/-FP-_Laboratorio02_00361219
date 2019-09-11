@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'Ingresar 3 dígitos por favor'
+5
+1
+1
+a
+5
+1
+1
+b
+5
+1
+1
+c
+6
+2
+9
+sumatoria
+5
+a+b+c
+8
+promedio
+15
+sumatoria mod 3
+4
+1
+68
+'El total de ', a, ' mas ' ,b, ' mas ' ,c, ' es igual a ', sumatoria
+7
+0
+1
+12
+promedio > 6
+7
+0
+1
+12
+promedio < 6
+4
+1
+89
+'El promedio de ', a, ' mas ' ,b, ' mas ' ,c, ' es igual a ', promedio, ' y es igual a 6'
+13
+4
+1
+89
+'El promedio de ', a, ' mas ' ,b, ' mas ' ,c, ' es igual a ', promedio, ' y es menor a 6'
+13
+13
+4
+1
+89
+'El promedio de ', a, ' mas ' ,b, ' mas ' ,c, ' es igual a ', promedio, ' y es mayor a 6'
+13
+1
