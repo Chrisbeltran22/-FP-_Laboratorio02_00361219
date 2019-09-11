@@ -1,0 +1,79 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+35
+'Ingrese valores de "A", "B" y "C"'
+5
+1
+1
+a
+5
+1
+1
+b
+5
+1
+1
+c
+6
+3
+4
+raíz
+21
+sqrt((b*b) - (4*a*c))
+7
+divisor
+3
+2*a
+8
+negacion
+4
+-1*b
+6
+2
+2
+T1
+18
+(negacion/divisor)
+2
+T2
+14
+(raíz/divisor)
+6
+2
+2
+X1
+7
+T1 - T2
+2
+X2
+7
+T1 + T2
+6
+2
+11
+X1invertida
+5
+X1*-1
+11
+X2invertida
+5
+X2*-1
+4
+1
+93
+'La respuesta de X1 es ', X1, ' . Si la respuesta se le invierte el signo sería ',X1invertida
+4
+1
+93
+'La respuesta de X2 es ', X2, ' . Si la respuesta se le invierte el signo sería ',X2invertida
+4
+1
+67
+'Gracias por usar el procesador de cuadráticas, tenga un feliz día'
+1
