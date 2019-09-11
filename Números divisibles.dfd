@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'Ingrese dos valores a dividir'
+5
+1
+1
+a
+5
+1
+1
+b
+6
+1
+7
+residuo
+7
+a mod b
+7
+0
+1
+11
+residuo = 0
+4
+1
+111
+'El residuo de la división de ' , a, ' entre ' , b, ' es ', residuo, ' , entonces no son divisbles entre ellos'
+13
+4
+1
+108
+'El residuo de la división de ' , a, ' entre ' , b, ' es ', residuo, ' , entonces son divisbles entre ellos'
+13
+1
